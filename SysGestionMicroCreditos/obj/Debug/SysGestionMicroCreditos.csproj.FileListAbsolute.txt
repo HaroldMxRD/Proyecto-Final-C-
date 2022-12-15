@@ -1,0 +1,17 @@
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\bin\Debug\SysGestionMicroCreditos.exe.config
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\bin\Debug\SysGestionMicroCreditos.exe
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\bin\Debug\SysGestionMicroCreditos.pdb
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.csproj.AssemblyReference.cache
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.login.resources
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.Properties.Resources.resources
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.csproj.GenerateResource.cache
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.csproj.CoreCompileInputs.cache
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.exe
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.pdb
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.dashboardusuario.resources
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.dashboardadmin.resources
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\bin\Debug\FontAwesome.Sharp.dll
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.csproj.CopyComplete
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.PantallaAgregar.resources
+C:\Users\Aleja\source\repos\SysGestionMicroCreditos\SysGestionMicroCreditos\obj\Debug\SysGestionMicroCreditos.PantallaGestionar.resources
